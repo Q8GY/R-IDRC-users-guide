@@ -3,8 +3,8 @@
   "version": "9.9.9",
   "description": "Bugbounty P0C by @nvk0x",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "bugbounty": "^9.9.1"
+    "bugbounty_by_nvk0x": "^4.17.21",
+    "bugbounty_dependency": "^9.9.1"
   },
   "license": "ISC",
   "author": "",
